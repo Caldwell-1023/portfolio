@@ -29,7 +29,6 @@ export default function Menu() {
   const [navMenu, setNavMenu] = useState<NavItem[]>([
     { name: 'Home', href: '/', isActive: true },
     { name: 'About', href: '/#about', isActive: false },
-    { name: 'Videos', href: '/#videos', isActive: false },
     { name: 'Projects', href: '/#projects', isActive: false },
     { name: 'Blog', href: '/posts', isActive: false },
   ]);
