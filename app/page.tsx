@@ -25,7 +25,7 @@ export default function Home() {
       <LogoCloud />
       <YoutubeGrid />
       <Stats />
-      <YoutubeVideos />
+      {/* <YoutubeVideos /> */}
       <WavyBackgroundDemo />
       <AboutMe />
       <Projects />

@@ -75,8 +75,8 @@ export const logos = [
     src: PythonLogo,
     alt: 'Python Logo',
     name: 'Python',
-    width: 30,
-    height: 30,
+    width: 23,
+    height: 23,
   },
   { src: FigmaLogo, alt: 'Figma Logo', name: 'Figma', width: 23, height: 23 },
 ];
