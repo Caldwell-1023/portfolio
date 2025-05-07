@@ -76,7 +76,7 @@ export default function Menu() {
               <span key={item.name} onClick={() => setActiveNavItem(item.name)}>
                 <a
                   className={clsx({
-                    'flex-2 relative rounded-full px-4 py-1 transition-all':
+                    'flex-2 relative rounded-full px-8 py-1 transition-all':
                       true,
                     [activeStyle]: item.isActive,
                     [inActiveStyle]: !item.isActive,
