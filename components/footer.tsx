@@ -37,7 +37,7 @@ export function Footer() {
 
         <div className="mt-10">
           <div className="flex flex-wrap justify-center gap-6">
-            <a
+            {/* <a
               href="https://twitter.com/0xAquaWolf"
               target="_blank"
               rel="noopener noreferrer"
@@ -62,7 +62,7 @@ export function Footer() {
                 width={40}
                 height={40}
               />
-            </a>
+            </a> */}
             <a
               href="https://github.com/Caldwell-1023"
               target="_blank"
@@ -76,7 +76,7 @@ export function Footer() {
                 height={40}
               />
             </a>
-            <a
+            {/* <a
               href="https://www.instagram.com/_0xAquaWolf"
               target="_blank"
               rel="noopener noreferrer"
@@ -114,7 +114,7 @@ export function Footer() {
                 width={40}
                 height={40}
               />
-            </a>
+            </a> */}
           </div>
         </div>
 

@@ -13,7 +13,7 @@ export default function HeroCTA() {
           Full-Stack Blockchain Developer
         </div>
         <div className="grid grid-cols-2 justify-center gap-4 lg:justify-start">
-          <a
+          {/* <a
             href="https://cal.com/0xaquawolf/discovery"
             className="grid place-items-center rounded-full bg-white py-4 text-center text-sm text-black shadow-cta transition-all hover:bg-transparent hover:text-white hover:shadow-alt-cta xl:px-6 xl:py-3 xl:text-lg"
           >
@@ -24,7 +24,7 @@ export default function HeroCTA() {
             className="grid place-items-center rounded-full py-4 text-center text-sm text-white shadow-alt-cta transition-all hover:bg-white hover:text-black hover:shadow-cta xl:px-8 xl:py-3 xl:text-lg"
           >
             Join the discord
-          </a>
+          </a> */}
         </div>
       </div>
       <HeroCircles />
