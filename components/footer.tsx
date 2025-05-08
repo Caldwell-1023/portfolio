@@ -37,8 +37,8 @@ export function Footer() {
 
         <div className="mt-10">
           <div className="flex flex-wrap justify-center gap-6">
-            {/* <a
-              href="https://twitter.com/0xAquaWolf"
+            <a
+              href="https://twitter.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -51,7 +51,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.youtube.com/@0xAquaWolf"
+              href="https://www.youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -62,7 +62,7 @@ export function Footer() {
                 width={40}
                 height={40}
               />
-            </a> */}
+            </a>
             <a
               href="https://github.com/Caldwell-1023"
               target="_blank"
@@ -76,8 +76,8 @@ export function Footer() {
                 height={40}
               />
             </a>
-            {/* <a
-              href="https://www.instagram.com/_0xAquaWolf"
+            <a
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -90,7 +90,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.tiktok.com/@0xAquaWolf"
+              href="https://www.tiktok.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -103,7 +103,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/0xAquaWolf"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -114,11 +114,13 @@ export function Footer() {
                 width={40}
                 height={40}
               />
-            </a> */}
+            </a>
           </div>
         </div>
-
-        <p className="mt-8 text-center text-sm">
+        <p className="mt-4 text-center text-sm">
+          e-mail: tvtdev07@gmail.com
+        </p>
+        <p className="mt-1 text-center text-sm">
           © {currentYear} Caldwell Labs, All rights reserved
         </p>
       </div>
