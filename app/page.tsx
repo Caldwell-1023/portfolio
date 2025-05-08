@@ -2,7 +2,7 @@ import Hero from '@/components/Hero/Hero';
 import LogoCloud from '@/components/LogoCloud/LogoCloud';
 import YoutubeGrid from '@/components/YoutubeGrid/YoutubeGrid';
 // import Stats from '@/components/GlobalStats/Stats';
-import { WavyBackgroundDemo } from '@/components/ui/WavyBackgroundDemo';
+// import { WavyBackgroundDemo } from '@/components/ui/WavyBackgroundDemo';
 import AboutMe from '@/components/about-me/AboutMe';
 import SecondQuote from '@/components/SecondQuote/SecondQuote';
 import TheEnd from '@/components/TheEnd';
@@ -25,7 +25,7 @@ export default function Home() {
       <YoutubeGrid />
       {/* <Stats /> */}
       {/* <YoutubeVideos /> */}
-      <WavyBackgroundDemo />
+      {/* <WavyBackgroundDemo /> */}
       <AboutMe />
       <Projects />
       <SecondQuote />
