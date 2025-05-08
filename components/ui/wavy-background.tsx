@@ -91,6 +91,7 @@ export const WavyBackground = ({
     drawWave(5);
     animationId = requestAnimationFrame(render);
   };
+  
 
   // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
@@ -109,7 +110,6 @@ export const WavyBackground = ({
         !navigator.userAgent.includes('Chrome'),
     );
   }, []);
-
   return (
     <div
       className={cn(

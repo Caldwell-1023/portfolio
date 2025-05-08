@@ -36,7 +36,7 @@ export default function Posts() {
                         className="mr-2 rounded-full"
                       />
                       <span className="text-sm text-gray-300">
-                        Written by 0xAquaWolf
+                        Written by Caldwell
                       </span>
                     </div>
                     <h3 className="mb-2 text-xl font-semibold text-white">

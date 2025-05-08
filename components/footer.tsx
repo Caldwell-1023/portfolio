@@ -14,7 +14,7 @@ export function Footer() {
   return (
     <footer className="bg-bg-default px-4 py-8 text-white">
       <div className="mx-auto max-w-6xl">
-        <nav className="mb-8 flex justify-center space-x-6">
+        {/* <nav className="mb-8 flex justify-center space-x-6">
           <Link
             href="/discord"
             className="transition-colors hover:text-gray-300"
@@ -33,7 +33,7 @@ export function Footer() {
           <Link href="/shop" className="transition-colors hover:text-gray-300">
             Shop
           </Link>
-        </nav>
+        </nav> */}
 
         <div className="mt-10">
           <div className="flex flex-wrap justify-center gap-6">
@@ -64,7 +64,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://github.com/0xAquaWolf"
+              href="https://github.com/Caldwell-1023"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -119,7 +119,7 @@ export function Footer() {
         </div>
 
         <p className="mt-8 text-center text-sm">
-          © {currentYear} AquaWolf Labs, All rights reserved
+          © {currentYear} Caldwell Labs, All rights reserved
         </p>
       </div>
     </footer>
