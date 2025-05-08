@@ -89,7 +89,7 @@ export default function Menu() {
             ))}
           </div>
           <div className="hidden gap-4 lg:flex lg:flex-1 lg:justify-end">
-            <ConnectButton />
+             {/* <ConnectButton /> */}
           </div>
         </nav>
         <Dialog
